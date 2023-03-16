@@ -10,5 +10,5 @@ You will also find the .html files obtained after knitting the .Rmd files.
 
 The .R and .Rmd files are under GPL3 license.
 
-# The dataset is available on Kaggle and is not concerned by the GPL3 licence :
+# The dataset is available on Kaggle and may not be concerned by a GPL3 licence, in other word I don't own any right on the dataset :
 https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
