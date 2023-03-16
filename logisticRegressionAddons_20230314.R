@@ -1,6 +1,6 @@
 #' Tools for Logit regression
 #'
-#' Copyright St?phane Lassalvy 2023 03 13
+#' Copyright Stephane Lassalvy 2023 03 13
 #' 
 #' Licence GPL-3
 #' Disclaimer of Warranty.
